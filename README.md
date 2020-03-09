@@ -18,6 +18,7 @@
     <td>nadhir</td>
     <td>18</td>
     <td>sukawening</td>
+    <td>universitas padjadjaran</td>
   </tr>
   <tr>
     <td>andhika</td>
