@@ -23,20 +23,28 @@
     <td>andhika</td>
     <td>pratama</td>
     <td>21</td>
+    <td>ciseke</td>
+    <td>universitas padjadjaran</td>
   </tr>
   <tr>
     <td>jodi</td>
     <td>dwiyanto</td>
     <td>18</td>
+    <td>balwil</td>
+    <td>universitas padjadjaran</td>
   </tr>
   <tr>
     <td>usama</td>
     <td>zaid</td>
     <td>20</td>
+    <td>bandung</td>
+    <td>universitas padjadjaran</td>
   </tr>
   <tr>
     <td>mulya</td>
     <td>sakti</td>
     <td>22</td>
+    <td>kampung geuleuh</td>
+    <td>universitas padjadjaran</td>
   </tr>
 </table> 
