@@ -12,13 +12,13 @@
     <th>Age</th>
   </tr>
   <tr>
-    <td>Jill</td>
-    <td>Smith</td>
-    <td>50</td>
+    <td>hisyam</td>
+    <td>nadhir</td>
+    <td>18</td>
   </tr>
   <tr>
-    <td>Eve</td>
-    <td>Jackson</td>
-    <td>94</td>
+    <td>andhika</td>
+    <td>pratama</td>
+    <td>21</td>
   </tr>
 </table> 
