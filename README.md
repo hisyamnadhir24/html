@@ -1,4 +1,4 @@
- <h1>Heading 1</h1>
+<h1 style="border:2px solid Tomato;">biografi muhammad hisyam nadhir</h1>
 <h2>Heading 2</h2>
 <h3>Heading 3</h3>
 <h4>Heading 4</h4>
@@ -49,3 +49,6 @@
     <td>universitas padjadjaran</td>
   </tr>
 </table> 
+ <h1 style="border:2px solid Tomato;">Hello World</h1>
+<h1 style="border:2px solid DodgerBlue;">Hello World</h1>
+<h1 style="border:2px solid Violet;">Hello World</h1> 
