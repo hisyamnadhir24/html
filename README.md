@@ -17,6 +17,7 @@
     <td>hisyam</td>
     <td>nadhir</td>
     <td>18</td>
+    <td>sukawening</td>
   </tr>
   <tr>
     <td>andhika</td>
